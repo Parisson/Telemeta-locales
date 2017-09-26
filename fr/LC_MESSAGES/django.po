@@ -597,7 +597,7 @@ msgstr "Modalités d'exécution"
 
 #: models/item.py:72
 msgid "author / compositor"
-msgstr "auteur / compositeur"
+msgstr "Auteur / compositeur"
 
 #: models/item.py:76
 msgid "depositor"
@@ -1983,7 +1983,7 @@ msgstr "Recherche avancée"
 
 #: templates/telemeta/inc/nav.html:29
 msgid "Terminology"
-msgstr ""
+msgstr "Terminologie"
 
 #: templates/telemeta/inc/nav.html:33 templates/telemeta/inc/nav.html:38
 #: templates/telemeta/instrument_alias_edit_value.html:24
